@@ -6,4 +6,6 @@ target 'TemplateProject' do
     pod 'MJRefresh', '~> 3.1.15.7'
     pod 'SDWebImage', '~> 4.4.2'
     pod 'MJExtension', '~> 3.0.15.1'
+    
+    
 end
